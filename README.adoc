@@ -1,4 +1,7 @@
-= Interscript: Interoperable Script Conversion Systems, with a Ruby implementation
+= ARCHIVED: Interscript LCS
+
+WARNING: This work has already been merged into the main interscript/interscript repository
+with Git history preserved. This repository is now read-only.
 
 image:https://github.com/interscript/interscript/workflows/test/badge.svg["Ruby build status", link="https://github.com/interscript/interscript/actions?workflow=test"]
 image:https://github.com/interscript/interscript/workflows/js/badge.svg["JavaScript build status", link="https://github.com/interscript/interscript/actions?workflow=js"]
